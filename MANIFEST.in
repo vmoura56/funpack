@@ -1,0 +1,3 @@
+graft funpack
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  funpack/jupy *
