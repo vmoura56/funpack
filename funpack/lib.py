@@ -55,3 +55,6 @@ if __name__ == '__main__':
     df = pd.read_csv('{}/data/data.csv.gz'.format(folder_source))
     clean_data = clean_data(df)
     print(' dataframe cleaned')
+
+def try_me()
+    print('What are you doing? Go back to work!')
